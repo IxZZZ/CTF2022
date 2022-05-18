@@ -76,7 +76,7 @@ Nhìn vào chương trình ta thấy có một số hằng số lạ, sử dụn
 
 ![image](https://user-images.githubusercontent.com/31529599/169088843-c0f4d5fe-6d69-4f0b-abdb-120f02a22153.png)
 
-Và kết quả đúng như ta mong đợi, chương trình có lẽ đang sử dụng 
+Và kết quả đúng như ta mong đợi, chương trình có lẽ đang sử dụng AES encryption 
 
 Ở trên mình đã phân tích và đổi tên để dễ hiểu hơn cơ bản chương trình nhập vào flag sau đó sử dụng AES 256 với key hardcode để encrypt sau đó so sánh với chuỗi constant được lưu trong chương trình
 
